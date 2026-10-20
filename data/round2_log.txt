@@ -1,0 +1,607 @@
+Credits remaining (before discover): 813
+ 10 results  corporate gifting company India bulk orders bags
+ 10 results  corporate gifts supplier Mumbai customised backpacks
+ 10 results  promotional merchandise company India branded bags
+ 10 results  branded merchandise supplier Bengaluru employee welcome kit
+ 10 results  tour operator India group tours corporate travel
+ 10 results  MICE travel company Delhi corporate events
+ 10 results  hotel group India multiple properties corporate events
+ 10 results  resort chain India banquet and conference
+ 10 results  luggage store India multi brand showroom
+ 10 results  bags and luggage shop Pune contact
+ 10 results  bags wholesaler India contact number
+ 10 results  luggage distributor India dealership enquiry
+ 10 results  D2C bags brand India online store
+ 10 results  travel accessories brand India online
+ 10 results  looking for bag supplier India bulk quotation
+ 10 results  tender supply of backpacks 2026 India
+ 10 results  corporate gifting company Hyderabad bulk orders
+ 10 results  corporate gifts supplier Chennai
+ 10 results  corporate gifting company Pune
+ 10 results  corporate gifts company Kolkata
+ 10 results  corporate gifting Ahmedabad customised
+ 10 results  customised promotional products supplier Delhi
+ 10 results  employee onboarding kit company India
+ 10 results  authorised dealer VIP Safari American Tourister luggage store
+ 10 results  luggage shop Chennai multi brand
+ 10 results  school bags wholesale dealer India
+ 10 results  corporate travel management company India offices
+ 10 results  pilgrimage tour operator India group tours
+ 10 results  boutique hotel chain India properties
+
+290 search results -> 224 unique domains saved to data/discovered.csv
+Credits remaining (after discover): 787
+Credits remaining (before scrape): 787
+[136/224] timesofindia.indiatimes.com: ok
+[137/224] sites.google.com: ok
+[138/224] zohacorpogift.com: ok
+[139/224] dwijproducts.com: ok
+[140/224] thegoodroad.in: ok
+[141/224] atpu.in: ok
+[142/224] greypottery.com: ok
+[143/224] officeoye.com: ok
+[144/224] hausergifts.com: ok
+[145/224] clouddesigns.in: ok
+[146/224] tablematters.sg: ok
+[147/224] frenterprises.in: ok
+[148/224] co-purrb.com: ok
+[149/224] kapoorbrothers.com: ok
+[150/224] waysgifting.in: ok
+[151/224] wemeestore.com: ok
+[152/224] bebee.com: ok
+[153/224] swagilo.com: ok
+[154/224] ensun.io: ok
+[155/224] armeeinternational.com: ok
+[156/224] thesecondproject.in: ok
+[157/224] thehappinessstory.com: ok
+[158/224] prestogifts.com: ok
+[159/224] giftveda.com: ok
+[160/224] krishnagifts.co.in: ok
+[161/224] sgegs.com: ok
+  rate limited, waiting 15s...
+[162/224] ledsignboardhub.com: ok
+[163/224] loopify.world: ok + contact page
+[164/224] yourprint.in: ok + contact page
+[165/224] giftechglobal.com: ok + contact page
+[166/224] colorsandimpressions.blogspot.com: ok
+[167/224] corporategiftsdelhi.com: ok
+[168/224] allcorporategifts.com: ok
+  rate limited, waiting 15s...
+[169/224] jmdenterprises.co.in: ERROR
+[170/224] medium.com: ok
+[171/224] annayacreations.in: ok
+[172/224] ksvprintech.com: ok
+[173/224] dhanswastik.com: ERROR
+[174/224] pebel.in: ok + contact page
+[175/224] indeed.com: ok + contact page
+[176/224] printo.in: ok
+  rate limited, waiting 15s...
+[177/224] vistaprint.in: ok
+[178/224] merchloop.com: ok
+[179/224] moo.com: ok
+[180/224] hatemonday.co.in: ok
+[181/224] americantourister.com.sa: ok + contact page
+[182/224] crimsonkart.com: ok
+[183/224] franticc.com: ok
+[184/224] bakshi-bros.localo.site: ok + contact page
+  rate limited, waiting 15s...
+[185/224] urbanjungle.shop: ok
+[186/224] bni-india.in: ok
+[187/224] csdindia.gov.in: ERROR
+[188/224] roshanbags.com: ok
+[189/224] leobags.in: ok
+[190/224] bagline.com: ok
+[191/224] genietravel.com: ok + contact page
+[192/224] kharidlow.com: ok
+[193/224] oasisbags.net: ok
+[194/224] corusbagindustries.com: ok
+[195/224] tiktok.com: ERROR
+[196/224] jinterbags.com: ok
+[197/224] factori.com: ok
+[198/224] exportersindia.com: ok
+[199/224] radhatraders.com: ok
+  rate limited, waiting 15s...
+[200/224] travelctm.com: ok + contact page
+[201/224] us.travelctm.com: ok + contact page
+[202/224] atpi.com: ok + contact page
+[203/224] blueberrytravel.com: ok
+[204/224] fcmtravel.com: ok + contact page
+[205/224] oneglobaltravel.com: ok
+  rate limited, waiting 15s...
+[206/224] trustpilot.com: ok
+[207/224] amexglobalbusinesstravel.com: ok + contact page
+[208/224] southerntravelsindia.com: ok
+[209/224] tourmyindia.com: ok
+[210/224] affordabletours.com: ok
+[211/224] catholicjourneys.com: ok
+[212/224] balajitravels.org: ok
+[213/224] indiapersonaltours.com: ok
+[214/224] pilgrimpackages.com: ok
+[215/224] slh.com: ok
+[216/224] postcardresorts.com: ok
+[217/224] brijhotels.com: ok
+[218/224] aluxurytravelblog.com: ok + contact page
+[219/224] cntraveller.in: ok
+[220/224] aman.com: ok + contact page
+[221/224] aaft.edu.in: ok
+[222/224] hvs.com: ok
+[223/224] seleqtionshotels.com: ok
+[224/224] cntraveler.com: ok
+Credits remaining (after scrape): 687
+[1/224] nashermiles.com: competitor
+[2/224] bigsmallcorporate.com: buyer
+[3/224] myescplan.com: competitor
+[4/224] brandedcorporategift.com: buyer
+[5/224] treasurehunt.in: buyer
+[6/224] thehouseofrajpadmini.in: competitor
+[7/224] mahileather.com: competitor
+[8/224] ridgegap.com: buyer
+[9/224] dagnedover.com: competitor
+[10/224] themaleta.com: buyer
+[11/224] sibiabags.in: competitor
+[12/224] adigiftsolution.com: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[13/224] nektonindia.com: competitor
+[14/224] galaxybags.in: competitor
+[15/224] giftcompany.in: buyer
+[16/224] sulekha.com: buyer
+[17/224] aiescobags.in: competitor
+[18/224] ideagifts.in: buyer
+[19/224] globalgiftssolutions.in: buyer
+[20/224] printkee.com: buyer
+[21/224] crestline.com: competitor
+[22/224] cavantee.com: buyer
+[23/224] printstop.co.in: buyer
+[24/224] gifthousegroup.com: buyer
+[25/224] revenuebase.ai: directory_or_blog
+[26/224] bybinternational.odoo.com: buyer
+[27/224] f6s.com: buyer
+[28/224] dsprintsindia.com: buyer
+[29/224] giftanaindia.com: buyer
+[30/224] arcprint.in: buyer
+[31/224] e-arc.in: buyer
+[32/224] regalcorporategift.com: buyer
+[33/224] thegourmetstories.com: buyer
+[34/224] boxupgifting.com: buyer
+[35/224] printfieldonline.com: buyer
+[36/224] tecidoglobal.com: buyer
+[37/224] intrepidtravel.com: outside_india
+[38/224] tourradar.com: directory_or_blog
+[39/224] thomascook.in: buyer
+[40/224] sotc.in: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[41/224] kesari.in: buyer
+[42/224] veenaworld.com: buyer
+[43/224] tripadvisor.com: directory_or_blog
+[44/224] global-gallivanting.com: directory_or_blog
+[45/224] wildfrontierstravel.com: buyer
+[46/224] incredibleindia.gov.in: directory_or_blog
+[47/224] houseofvacation.com: buyer
+[48/224] evomahotels.com: buyer
+[49/224] sostravelhouse.com: buyer
+[50/224] specialholidays.com: buyer
+[51/224] slideshare.net: directory_or_blog
+[52/224] iceindia.biz: buyer
+[53/224] thetoptens.com: buyer
+[54/224] corporateeventmanagement.org: buyer
+[55/224] miceemporio.in: buyer
+[56/224] miceandtourismaroundtheworld.com: directory_or_blog
+[57/224] corpvenue.com: buyer
+[58/224] cloudbeds.com: outside_india
+[59/224] starwoodhotels.com: buyer
+[60/224] radissonhotels.com: buyer
+[61/224] cvent.com: buyer
+[62/224] skift.com: directory_or_blog
+[63/224] hilton.com: buyer
+[64/224] altexsoft.com: directory_or_blog
+[65/224] marriott.com: buyer
+[66/224] pridehotel.com: buyer
+[67/224] spalba.com: buyer
+[68/224] sarovarhotels.com: buyer
+[69/224] hospitality.economictimes.indiatimes.com: buyer
+[70/224] orchidhotel.com: buyer
+[71/224] itchotels.com: buyer
+[72/224] jaypeehotels.com: buyer
+[73/224] samsonite.in: competitor
+[74/224] assemblytravel.com: competitor
+[75/224] uppercase.co.in: buyer
+[76/224] mokobara.com: competitor
+[77/224] awaytravel.com: competitor
+[78/224] level8cases.com: competitor
+[79/224] mynori.com: competitor
+[80/224] roamluggage.com: competitor
+[81/224] july.com: competitor
+[82/224] monos.com: competitor
+[83/224] stores.safaribags.com: competitor
+[84/224] lbb.in: directory_or_blog
+[85/224] mallofthemillennium.com: competitor
+[86/224] indiabusinessguide.in: buyer
+[87/224] whatshot.in: directory_or_blog
+[88/224] justbags.in: competitor
+[89/224] indiawholesaleco.com: buyer
+[90/224] thegiftwholesalers.com: buyer
+[91/224] theethnicworld.com: buyer
+[92/224] doublerbags.com: competitor
+[93/224] safaribags.com: competitor
+[94/224] sudesh-artncrafts.com: competitor
+[95/224] packman.co.in: buyer
+[96/224] bagcraftindia.com: competitor
+[97/224] jutebagsindia.com: buyer
+[98/224] americantourister.in: competitor
+[99/224] franchisemart.in: competitor
+[100/224] vipindustries.co.in: competitor
+[101/224] vipbags.com: competitor
+[102/224] getdistributors.com: directory_or_blog
+[103/224] tracxn.com: directory_or_blog
+[104/224] qikink.com: directory_or_blog
+[105/224] nappadori.com: competitor
+[106/224] mykasebags.com: competitor
+[107/224] icon.in: competitor
+[108/224] ecoenclose.com: directory_or_blog
+[109/224] eumeworld.com: competitor
+[110/224] indiacircus.com: competitor
+[111/224] fortunebusinessinsights.com: directory_or_blog
+[112/224] beistravel.com: competitor
+[113/224] tumi.com: competitor
+[114/224] uniqlo.com: competitor
+[115/224] wildcraft.com: competitor
+[116/224] trywanderingmore.com: directory_or_blog
+[117/224] retail.economictimes.indiatimes.com: directory_or_blog
+[118/224] terramaressentials.com: competitor
+[119/224] tradewheel.com: directory_or_blog
+[120/224] greenobag.com: competitor
+[121/224] jutebagfactory.in: competitor
+[122/224] favouritehub.com: competitor
+[123/224] gogreennonwovenbags.com: competitor
+[124/224] ukhi.com: directory_or_blog
+[125/224] sudarshanaddpack.com: competitor
+[126/224] indianembassyusa.gov.in: outside_india
+[127/224] tendernews.com: directory_or_blog
+[128/224] tenderdetail.com: directory_or_blog
+[129/224] tendertiger.com: directory_or_blog
+[130/224] scribd.com: buyer
+[131/224] tendersniper.com: directory_or_blog
+[132/224] bihartenders.com: directory_or_blog
+[133/224] globaltenders.com: buyer
+[134/224] tstender.com: directory_or_blog
+[135/224] tendersontime.com: buyer
+[136/224] timesofindia.indiatimes.com: directory_or_blog
+[137/224] sites.google.com: buyer
+[138/224] zohacorpogift.com: buyer
+[139/224] dwijproducts.com: competitor
+[140/224] thegoodroad.in: buyer
+[141/224] atpu.in: buyer
+[142/224] greypottery.com: buyer
+  LLM call failed for officeoye.com: Error code: 500 - {'message': 'Failed to generate completions', 'type': 'Internal Server Error', 'co
+[143/224] officeoye.com: LLM call failed or reply was not valid JSON
+  LLM call failed for hausergifts.com: Error code: 500 - {'message': 'Failed to generate completions', 'type': 'Internal Server Error', 'co
+[144/224] hausergifts.com: LLM call failed or reply was not valid JSON
+[145/224] clouddesigns.in: directory_or_blog
+[146/224] tablematters.sg: directory_or_blog
+[147/224] frenterprises.in: buyer
+[148/224] co-purrb.com: buyer
+[149/224] kapoorbrothers.com: buyer
+[150/224] waysgifting.in: buyer
+[151/224] wemeestore.com: buyer
+[152/224] bebee.com: buyer
+[153/224] swagilo.com: buyer
+[154/224] ensun.io: buyer
+[155/224] armeeinternational.com: buyer
+[156/224] thesecondproject.in: buyer
+[157/224] thehappinessstory.com: buyer
+[158/224] prestogifts.com: buyer
+[159/224] giftveda.com: buyer
+[160/224] krishnagifts.co.in: buyer
+[161/224] sgegs.com: buyer
+[162/224] ledsignboardhub.com: buyer
+[163/224] loopify.world: buyer
+[164/224] yourprint.in: buyer
+[165/224] giftechglobal.com: buyer
+[166/224] colorsandimpressions.blogspot.com: buyer
+[167/224] corporategiftsdelhi.com: buyer
+[168/224] allcorporategifts.com: buyer
+[169/224] jmdenterprises.co.in: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[170/224] medium.com: buyer
+[171/224] annayacreations.in: competitor
+[172/224] ksvprintech.com: buyer
+[173/224] dhanswastik.com: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[174/224] pebel.in: buyer
+[175/224] indeed.com: directory_or_blog
+[176/224] printo.in: buyer
+[177/224] vistaprint.in: buyer
+[178/224] merchloop.com: buyer
+[179/224] moo.com: outside_india
+[180/224] hatemonday.co.in: buyer
+[181/224] americantourister.com.sa: competitor
+[182/224] crimsonkart.com: buyer
+[183/224] franticc.com: directory_or_blog
+[184/224] bakshi-bros.localo.site: competitor
+[185/224] urbanjungle.shop: competitor
+[186/224] bni-india.in: competitor
+[187/224] csdindia.gov.in: Internal Server Error: Failed to scrape. The URL failed to load in the browser with error code "ERR_TUNNEL_CONNECTION_FAILED". Firecrawl encountered an internal proxy error while establishing the tunnel. This is an internal Firecrawl proxy error. Please retry or contact support. - No additional erro
+[188/224] roshanbags.com: competitor
+[189/224] leobags.in: competitor
+[190/224] bagline.com: competitor
+[191/224] genietravel.com: competitor
+  LLM call failed for kharidlow.com: Error code: 500 - {'message': 'Failed to generate completions', 'type': 'Internal Server Error', 'co
+[192/224] kharidlow.com: LLM call failed or reply was not valid JSON
+  LLM call failed for oasisbags.net: Error code: 500 - {'message': 'Failed to generate completions', 'type': 'Internal Server Error', 'co
+[193/224] oasisbags.net: LLM call failed or reply was not valid JSON
+  LLM call failed for corusbagindustries.com: Error code: 500 - {'message': 'Failed to generate completions', 'type': 'Internal Server Error', 'co
+[194/224] corusbagindustries.com: LLM call failed or reply was not valid JSON
+[195/224] tiktok.com: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please contact our sales team here: https://www.firecrawl.dev/contact-sales - No additional error details 
+[196/224] jinterbags.com: competitor
+[197/224] factori.com: buyer
+[198/224] exportersindia.com: competitor
+[199/224] radhatraders.com: buyer
+[200/224] travelctm.com: buyer
+[201/224] us.travelctm.com: outside_india
+[202/224] atpi.com: buyer
+[203/224] blueberrytravel.com: directory_or_blog
+[204/224] fcmtravel.com: buyer
+[205/224] oneglobaltravel.com: buyer
+[206/224] trustpilot.com: outside_india
+[207/224] amexglobalbusinesstravel.com: buyer
+[208/224] southerntravelsindia.com: buyer
+[209/224] tourmyindia.com: buyer
+[210/224] affordabletours.com: directory_or_blog
+[211/224] catholicjourneys.com: outside_india
+[212/224] balajitravels.org: buyer
+[213/224] indiapersonaltours.com: buyer
+[214/224] pilgrimpackages.com: buyer
+[215/224] slh.com: buyer
+[216/224] postcardresorts.com: buyer
+[217/224] brijhotels.com: buyer
+[218/224] aluxurytravelblog.com: directory_or_blog
+[219/224] cntraveller.in: directory_or_blog
+[220/224] aman.com: buyer
+[221/224] aaft.edu.in: directory_or_blog
+[222/224] hvs.com: buyer
+[223/224] seleqtionshotels.com: buyer
+[224/224] cntraveler.com: directory_or_blog
+
+Saved 224 rows to data/extracted.csv
+[1/224] nashermiles.com: competitor
+[2/224] bigsmallcorporate.com: buyer
+[3/224] myescplan.com: competitor
+[4/224] brandedcorporategift.com: buyer
+[5/224] treasurehunt.in: buyer
+[6/224] thehouseofrajpadmini.in: competitor
+[7/224] mahileather.com: competitor
+[8/224] ridgegap.com: buyer
+[9/224] dagnedover.com: competitor
+[10/224] themaleta.com: buyer
+[11/224] sibiabags.in: competitor
+[12/224] adigiftsolution.com: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[13/224] nektonindia.com: competitor
+[14/224] galaxybags.in: competitor
+[15/224] giftcompany.in: buyer
+[16/224] sulekha.com: buyer
+[17/224] aiescobags.in: competitor
+[18/224] ideagifts.in: buyer
+[19/224] globalgiftssolutions.in: buyer
+[20/224] printkee.com: buyer
+[21/224] crestline.com: competitor
+[22/224] cavantee.com: buyer
+[23/224] printstop.co.in: buyer
+[24/224] gifthousegroup.com: buyer
+[25/224] revenuebase.ai: directory_or_blog
+[26/224] bybinternational.odoo.com: buyer
+[27/224] f6s.com: buyer
+[28/224] dsprintsindia.com: buyer
+[29/224] giftanaindia.com: buyer
+[30/224] arcprint.in: buyer
+[31/224] e-arc.in: buyer
+[32/224] regalcorporategift.com: buyer
+[33/224] thegourmetstories.com: buyer
+[34/224] boxupgifting.com: buyer
+[35/224] printfieldonline.com: buyer
+[36/224] tecidoglobal.com: buyer
+[37/224] intrepidtravel.com: outside_india
+[38/224] tourradar.com: directory_or_blog
+[39/224] thomascook.in: buyer
+[40/224] sotc.in: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[41/224] kesari.in: buyer
+[42/224] veenaworld.com: buyer
+[43/224] tripadvisor.com: directory_or_blog
+[44/224] global-gallivanting.com: directory_or_blog
+[45/224] wildfrontierstravel.com: buyer
+[46/224] incredibleindia.gov.in: directory_or_blog
+[47/224] houseofvacation.com: buyer
+[48/224] evomahotels.com: buyer
+[49/224] sostravelhouse.com: buyer
+[50/224] specialholidays.com: buyer
+[51/224] slideshare.net: directory_or_blog
+[52/224] iceindia.biz: buyer
+[53/224] thetoptens.com: buyer
+[54/224] corporateeventmanagement.org: buyer
+[55/224] miceemporio.in: buyer
+[56/224] miceandtourismaroundtheworld.com: directory_or_blog
+[57/224] corpvenue.com: buyer
+[58/224] cloudbeds.com: outside_india
+[59/224] starwoodhotels.com: buyer
+[60/224] radissonhotels.com: buyer
+[61/224] cvent.com: buyer
+[62/224] skift.com: directory_or_blog
+[63/224] hilton.com: buyer
+[64/224] altexsoft.com: directory_or_blog
+[65/224] marriott.com: buyer
+[66/224] pridehotel.com: buyer
+[67/224] spalba.com: buyer
+[68/224] sarovarhotels.com: buyer
+[69/224] hospitality.economictimes.indiatimes.com: buyer
+[70/224] orchidhotel.com: buyer
+[71/224] itchotels.com: buyer
+[72/224] jaypeehotels.com: buyer
+[73/224] samsonite.in: competitor
+[74/224] assemblytravel.com: competitor
+[75/224] uppercase.co.in: buyer
+[76/224] mokobara.com: competitor
+[77/224] awaytravel.com: competitor
+[78/224] level8cases.com: competitor
+[79/224] mynori.com: competitor
+[80/224] roamluggage.com: competitor
+[81/224] july.com: competitor
+[82/224] monos.com: competitor
+[83/224] stores.safaribags.com: competitor
+[84/224] lbb.in: directory_or_blog
+[85/224] mallofthemillennium.com: competitor
+[86/224] indiabusinessguide.in: buyer
+[87/224] whatshot.in: directory_or_blog
+[88/224] justbags.in: competitor
+[89/224] indiawholesaleco.com: buyer
+[90/224] thegiftwholesalers.com: buyer
+[91/224] theethnicworld.com: buyer
+[92/224] doublerbags.com: competitor
+[93/224] safaribags.com: competitor
+[94/224] sudesh-artncrafts.com: competitor
+[95/224] packman.co.in: buyer
+[96/224] bagcraftindia.com: competitor
+[97/224] jutebagsindia.com: buyer
+[98/224] americantourister.in: competitor
+[99/224] franchisemart.in: competitor
+[100/224] vipindustries.co.in: competitor
+[101/224] vipbags.com: competitor
+[102/224] getdistributors.com: directory_or_blog
+[103/224] tracxn.com: directory_or_blog
+[104/224] qikink.com: directory_or_blog
+[105/224] nappadori.com: competitor
+[106/224] mykasebags.com: competitor
+[107/224] icon.in: competitor
+[108/224] ecoenclose.com: directory_or_blog
+[109/224] eumeworld.com: competitor
+[110/224] indiacircus.com: competitor
+[111/224] fortunebusinessinsights.com: directory_or_blog
+[112/224] beistravel.com: competitor
+[113/224] tumi.com: competitor
+[114/224] uniqlo.com: competitor
+[115/224] wildcraft.com: competitor
+[116/224] trywanderingmore.com: directory_or_blog
+[117/224] retail.economictimes.indiatimes.com: directory_or_blog
+[118/224] terramaressentials.com: competitor
+[119/224] tradewheel.com: directory_or_blog
+[120/224] greenobag.com: competitor
+[121/224] jutebagfactory.in: competitor
+[122/224] favouritehub.com: competitor
+[123/224] gogreennonwovenbags.com: competitor
+[124/224] ukhi.com: directory_or_blog
+[125/224] sudarshanaddpack.com: competitor
+[126/224] indianembassyusa.gov.in: outside_india
+[127/224] tendernews.com: directory_or_blog
+[128/224] tenderdetail.com: directory_or_blog
+[129/224] tendertiger.com: directory_or_blog
+[130/224] scribd.com: buyer
+[131/224] tendersniper.com: directory_or_blog
+[132/224] bihartenders.com: directory_or_blog
+[133/224] globaltenders.com: buyer
+[134/224] tstender.com: directory_or_blog
+[135/224] tendersontime.com: buyer
+[136/224] timesofindia.indiatimes.com: directory_or_blog
+[137/224] sites.google.com: buyer
+[138/224] zohacorpogift.com: buyer
+[139/224] dwijproducts.com: competitor
+[140/224] thegoodroad.in: buyer
+[141/224] atpu.in: buyer
+[142/224] greypottery.com: buyer
+[143/224] officeoye.com: buyer
+[144/224] hausergifts.com: buyer
+[145/224] clouddesigns.in: directory_or_blog
+[146/224] tablematters.sg: directory_or_blog
+[147/224] frenterprises.in: buyer
+[148/224] co-purrb.com: buyer
+[149/224] kapoorbrothers.com: buyer
+[150/224] waysgifting.in: buyer
+[151/224] wemeestore.com: buyer
+[152/224] bebee.com: buyer
+[153/224] swagilo.com: buyer
+[154/224] ensun.io: buyer
+[155/224] armeeinternational.com: buyer
+[156/224] thesecondproject.in: buyer
+[157/224] thehappinessstory.com: buyer
+[158/224] prestogifts.com: buyer
+[159/224] giftveda.com: buyer
+[160/224] krishnagifts.co.in: buyer
+[161/224] sgegs.com: buyer
+[162/224] ledsignboardhub.com: buyer
+[163/224] loopify.world: buyer
+[164/224] yourprint.in: buyer
+[165/224] giftechglobal.com: buyer
+[166/224] colorsandimpressions.blogspot.com: buyer
+[167/224] corporategiftsdelhi.com: buyer
+[168/224] allcorporategifts.com: buyer
+[169/224] jmdenterprises.co.in: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[170/224] medium.com: buyer
+[171/224] annayacreations.in: competitor
+[172/224] ksvprintech.com: buyer
+[173/224] dhanswastik.com: Internal Server Error: Failed to scrape. All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp]. This usually happens when: (1) The URL is invalid or the page doesn't exist (404), (2) The website is blocking automa
+[174/224] pebel.in: buyer
+[175/224] indeed.com: directory_or_blog
+[176/224] printo.in: buyer
+[177/224] vistaprint.in: buyer
+[178/224] merchloop.com: buyer
+[179/224] moo.com: outside_india
+[180/224] hatemonday.co.in: buyer
+[181/224] americantourister.com.sa: competitor
+[182/224] crimsonkart.com: buyer
+[183/224] franticc.com: directory_or_blog
+[184/224] bakshi-bros.localo.site: competitor
+[185/224] urbanjungle.shop: competitor
+[186/224] bni-india.in: competitor
+[187/224] csdindia.gov.in: Internal Server Error: Failed to scrape. The URL failed to load in the browser with error code "ERR_TUNNEL_CONNECTION_FAILED". Firecrawl encountered an internal proxy error while establishing the tunnel. This is an internal Firecrawl proxy error. Please retry or contact support. - No additional erro
+[188/224] roshanbags.com: competitor
+[189/224] leobags.in: competitor
+[190/224] bagline.com: competitor
+[191/224] genietravel.com: competitor
+  LLM call failed for kharidlow.com: Error code: 500 - {'message': 'Failed to generate completions', 'type': 'Internal Server Error', 'co
+[192/224] kharidlow.com: LLM call failed or reply was not valid JSON
+[193/224] oasisbags.net: competitor
+[194/224] corusbagindustries.com: competitor
+[195/224] tiktok.com: Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please contact our sales team here: https://www.firecrawl.dev/contact-sales - No additional error details 
+[196/224] jinterbags.com: competitor
+[197/224] factori.com: buyer
+[198/224] exportersindia.com: competitor
+[199/224] radhatraders.com: buyer
+[200/224] travelctm.com: buyer
+[201/224] us.travelctm.com: outside_india
+[202/224] atpi.com: buyer
+[203/224] blueberrytravel.com: directory_or_blog
+[204/224] fcmtravel.com: buyer
+[205/224] oneglobaltravel.com: buyer
+[206/224] trustpilot.com: outside_india
+[207/224] amexglobalbusinesstravel.com: buyer
+[208/224] southerntravelsindia.com: buyer
+[209/224] tourmyindia.com: buyer
+[210/224] affordabletours.com: directory_or_blog
+[211/224] catholicjourneys.com: outside_india
+[212/224] balajitravels.org: buyer
+[213/224] indiapersonaltours.com: buyer
+[214/224] pilgrimpackages.com: buyer
+[215/224] slh.com: buyer
+[216/224] postcardresorts.com: buyer
+[217/224] brijhotels.com: buyer
+[218/224] aluxurytravelblog.com: directory_or_blog
+[219/224] cntraveller.in: directory_or_blog
+[220/224] aman.com: buyer
+[221/224] aaft.edu.in: directory_or_blog
+[222/224] hvs.com: buyer
+[223/224] seleqtionshotels.com: buyer
+[224/224] cntraveler.com: directory_or_blog
+
+Saved 224 rows to data/extracted.csv
+Discovered: 224  Qualified: 94  Excluded: 130
+
+Intent labels:
+intent_label
+Medium    52
+High      25
+Low       17
+
+Exclusion reasons:
+exclusion_reason
+Competitor: makes its own bags or is a bag brand                           59
+Directory, marketplace or blog, not a single business                      37
+No phone number or email found                                             11
+Business is not based in India                                              7
+Website could not be scraped                                                6
+Third-party listing site, contact details may not be the business's own     5
+Page lists many businesses' numbers (store locator or directory)            3
+Company name missing                                                        1
+AI extraction failed                                                        1

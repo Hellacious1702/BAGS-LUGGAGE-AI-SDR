@@ -1,0 +1,19 @@
+timestamp,note,remaining_credits
+2026-10-20T15:33:03,before discover,1000
+2026-10-20T15:34:55,after discover,968
+2026-10-20T15:39:15,before discover,968
+2026-10-20T15:39:16,after discover,968
+2026-10-20T15:39:53,before scrape,967
+2026-10-20T15:50:03,after scrape,870
+2026-10-20T15:50:43,before scrape,870
+2026-10-20T15:59:00,after scrape,813
+2026-10-20T16:14:44,before discover,813
+2026-10-20T16:14:45,after discover,813
+2026-10-20T16:48:29,before discover,813
+2026-10-20T16:50:00,after discover,787
+2026-10-20T16:50:01,before scrape,787
+2026-10-20T17:02:08,after scrape,687
+2026-10-20T18:16:16,before discover,710
+2026-10-20T18:16:17,after discover,710
+2026-10-20T18:16:18,before scrape,710
+2026-10-20T18:16:19,after scrape,710

@@ -1,0 +1,11 @@
+{
+  "domain": "csdindia.gov.in",
+  "scraped_at": "2026-10-20T16:57:23",
+  "page": {
+    "url": "https://www.csdindia.gov.in/cat.aspx?Id=1840&catid=3",
+    "markdown": "",
+    "links": [],
+    "error": "Internal Server Error: Failed to scrape. The URL failed to load in the browser with error code \"ERR_TUNNEL_CONNECTION_FAILED\". Firecrawl encountered an internal proxy error while establishing the tunnel. This is an internal Firecrawl proxy error. Please retry or contact support. - No additional erro"
+  },
+  "contact_page": null
+}

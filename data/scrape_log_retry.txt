@@ -1,0 +1,59 @@
+Credits remaining (before scrape): 870
+[28/137] in.pinterest.com: ERROR
+[29/137] dsprintsindia.com: ok
+[30/137] giftanaindia.com: ok
+[31/137] arcprint.in: ok
+[32/137] e-arc.in: ok
+[33/137] regalcorporategift.com: ok
+[34/137] thegourmetstories.com: ok
+[35/137] boxupgifting.com: ok
+[36/137] printfieldonline.com: ok
+[37/137] tecidoglobal.com: ok
+[38/137] nz.pinterest.com: ERROR
+[39/137] intrepidtravel.com: ok
+[40/137] tourradar.com: ok + contact page
+  rate limited, waiting 15s...
+  rate limited, waiting 15s...
+[41/137] thomascook.in: ok
+[42/137] sotc.in: ERROR
+[43/137] kesari.in: ok
+[44/137] veenaworld.com: ok
+[45/137] tripadvisor.com: ok
+[46/137] global-gallivanting.com: ok + contact page
+[47/137] wildfrontierstravel.com: ok + contact page
+[64/137] skift.com: ok
+[65/137] hilton.com: ok
+[66/137] altexsoft.com: ok
+  rate limited, waiting 15s...
+[67/137] marriott.com: ok
+[89/137] whatshot.in: ok
+[90/137] justbags.in: ok
+[91/137] indiawholesaleco.com: ok
+[92/137] thegiftwholesalers.com: ok
+[93/137] theethnicworld.com: ok
+[94/137] doublerbags.com: ok
+[95/137] safaribags.com: ok
+[96/137] sudesh-artncrafts.com: ok
+[97/137] packman.co.in: ok
+  rate limited, waiting 15s...
+[98/137] bagcraftindia.com: ok
+[99/137] jutebagsindia.com: ok + contact page
+[108/137] mykasebags.com: ok
+[109/137] icon.in: ok
+[110/137] ecoenclose.com: ok
+[111/137] eumeworld.com: ok
+[112/137] indiacircus.com: ok
+[113/137] fortunebusinessinsights.com: ok
+[114/137] beistravel.com: ok + contact page
+[115/137] tumi.com: ok + contact page
+[116/137] uniqlo.com: ok
+[117/137] wildcraft.com: ok
+[118/137] trywanderingmore.com: ok
+[119/137] retail.economictimes.indiatimes.com: ok + contact page
+[120/137] terramaressentials.com: ok
+[121/137] tradewheel.com: ok
+[122/137] greenobag.com: ok
+[123/137] jutebagfactory.in: ok
+[124/137] favouritehub.com: ok
+[125/137] gogreennonwovenbags.com: ok
+Credits remaining (after scrape): 813

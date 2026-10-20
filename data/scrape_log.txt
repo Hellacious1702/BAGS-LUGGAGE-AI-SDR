@@ -1,0 +1,139 @@
+Credits remaining (before scrape): 967
+[1/137] nashermiles.com: ok
+[2/137] bigsmallcorporate.com: ok
+[3/137] myescplan.com: ok
+[4/137] brandedcorporategift.com: ok
+[5/137] treasurehunt.in: ok
+[6/137] thehouseofrajpadmini.in: ok
+[7/137] mahileather.com: ok + contact page
+[8/137] ridgegap.com: ok
+[9/137] dagnedover.com: ok
+[10/137] themaleta.com: ok
+[11/137] sibiabags.in: ok
+[12/137] adigiftsolution.com: ERROR
+[13/137] nektonindia.com: ok
+[14/137] galaxybags.in: ok
+[15/137] giftcompany.in: ok
+[16/137] sulekha.com: ok
+[17/137] aiescobags.in: ok
+[18/137] ideagifts.in: ok
+[19/137] globalgiftssolutions.in: ok
+[20/137] printkee.com: ok
+[21/137] crestline.com: ok
+[22/137] cavantee.com: ok
+[23/137] printstop.co.in: ok
+[24/137] gifthousegroup.com: ok
+[25/137] revenuebase.ai: ok + contact page
+[26/137] bybinternational.odoo.com: ok
+[27/137] f6s.com: ok
+[28/137] in.pinterest.com: ERROR
+[29/137] dsprintsindia.com: ERROR
+[30/137] giftanaindia.com: ERROR
+[31/137] arcprint.in: ERROR
+[32/137] e-arc.in: ERROR
+[33/137] regalcorporategift.com: ERROR
+[34/137] thegourmetstories.com: ERROR
+[35/137] boxupgifting.com: ERROR
+[36/137] printfieldonline.com: ERROR
+[37/137] tecidoglobal.com: ERROR
+[38/137] nz.pinterest.com: ERROR
+[39/137] intrepidtravel.com: ERROR
+[40/137] tourradar.com: ERROR
+[41/137] thomascook.in: ERROR
+[42/137] sotc.in: ERROR
+[43/137] kesari.in: ERROR
+[44/137] veenaworld.com: ERROR
+[45/137] tripadvisor.com: ERROR
+[46/137] global-gallivanting.com: ERROR
+[47/137] wildfrontierstravel.com: ERROR
+[48/137] incredibleindia.gov.in: ok + contact page
+[49/137] houseofvacation.com: ok
+[50/137] evomahotels.com: ok
+[51/137] sostravelhouse.com: ok
+[52/137] specialholidays.com: ok
+[53/137] slideshare.net: ok
+[54/137] iceindia.biz: ok
+[55/137] thetoptens.com: ok
+[56/137] corporateeventmanagement.org: ok
+[57/137] miceemporio.in: ok
+[58/137] miceandtourismaroundtheworld.com: ok + contact page
+[59/137] corpvenue.com: ok
+[60/137] cloudbeds.com: ok + contact page
+[61/137] starwoodhotels.com: ok + contact page
+[62/137] radissonhotels.com: ok
+[63/137] cvent.com: ok
+[64/137] skift.com: ERROR
+[65/137] hilton.com: ERROR
+[66/137] altexsoft.com: ERROR
+[67/137] marriott.com: ERROR
+[68/137] pridehotel.com: ok
+[69/137] spalba.com: ok + contact page
+[70/137] sarovarhotels.com: ok
+[71/137] hospitality.economictimes.indiatimes.com: ok + contact page
+[72/137] orchidhotel.com: ok
+[73/137] itchotels.com: ok
+[74/137] jaypeehotels.com: ok + contact page
+[75/137] samsonite.in: ok
+[76/137] assemblytravel.com: ok
+[77/137] uppercase.co.in: ok
+[78/137] mokobara.com: ok
+[79/137] awaytravel.com: ok + contact page
+[80/137] level8cases.com: ok + contact page
+[81/137] mynori.com: ok + contact page
+[82/137] roamluggage.com: ok
+[83/137] july.com: ok
+[84/137] monos.com: ok
+[85/137] stores.safaribags.com: ok
+[86/137] lbb.in: ok
+[87/137] mallofthemillennium.com: ok
+[88/137] indiabusinessguide.in: ok
+[89/137] whatshot.in: ERROR
+[90/137] justbags.in: ERROR
+[91/137] indiawholesaleco.com: ERROR
+[92/137] thegiftwholesalers.com: ERROR
+[93/137] theethnicworld.com: ERROR
+[94/137] doublerbags.com: ERROR
+[95/137] safaribags.com: ERROR
+[96/137] sudesh-artncrafts.com: ERROR
+[97/137] packman.co.in: ERROR
+[98/137] bagcraftindia.com: ERROR
+[99/137] jutebagsindia.com: ERROR
+[100/137] americantourister.in: ok
+[101/137] franchisemart.in: ok
+[102/137] vipindustries.co.in: ok
+[103/137] vipbags.com: ok + contact page
+[104/137] getdistributors.com: ok
+[105/137] tracxn.com: ok
+[106/137] qikink.com: ok + contact page
+[107/137] nappadori.com: ok
+[108/137] mykasebags.com: ERROR
+[109/137] icon.in: ERROR
+[110/137] ecoenclose.com: ERROR
+[111/137] eumeworld.com: ERROR
+[112/137] indiacircus.com: ERROR
+[113/137] fortunebusinessinsights.com: ERROR
+[114/137] beistravel.com: ERROR
+[115/137] tumi.com: ERROR
+[116/137] uniqlo.com: ERROR
+[117/137] wildcraft.com: ERROR
+[118/137] trywanderingmore.com: ERROR
+[119/137] retail.economictimes.indiatimes.com: ERROR
+[120/137] terramaressentials.com: ERROR
+[121/137] tradewheel.com: ERROR
+[122/137] greenobag.com: ERROR
+[123/137] jutebagfactory.in: ERROR
+[124/137] favouritehub.com: ERROR
+[125/137] gogreennonwovenbags.com: ERROR
+[126/137] ukhi.com: ok
+[127/137] sudarshanaddpack.com: ok
+[128/137] indianembassyusa.gov.in: ok
+[129/137] tendernews.com: ok
+[130/137] tenderdetail.com: ok
+[131/137] tendertiger.com: ok
+[132/137] scribd.com: ok
+[133/137] tendersniper.com: ok
+[134/137] bihartenders.com: ok
+[135/137] globaltenders.com: ok
+[136/137] tstender.com: ok
+[137/137] tendersontime.com: ok
+Credits remaining (after scrape): 870
